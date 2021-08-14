@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Ejezie Chinedu</h1>
 
 <div display="flex" align="center">
-<img  src="https://github.com/Jaybee4real/Jaybee4real/raw/master/pg_image.png" alt="Coder" />
+<img  src="https://www.edology.com/media/1721/download/blog-why-coding-is-so-important-for-IT-jobs.png?v=1" alt="Coder" />
 </div>
 
 <h2>A passionate frontend developer (Web & Mobile), with an eye for elegant designs.</h2>
