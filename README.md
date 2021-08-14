@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Ejezie Chinedu</h1>
 
 <div display="flex" align="center">
-<img  src="https://freesvg.org/img/computers.png" alt="Coder" height="400" width="400" />
+<img  src="https://freesvg.org/img/computers.png" alt="Coder" height="400" width="450" />
 </div>
 
 <h2>A passionate frontend developer (Web & Mobile), with an eye for simple elegant designs.</h2>
