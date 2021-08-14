@@ -4,7 +4,6 @@
 <h1 align="center">Hi 👋, I'm Ejezie Chinedu</h1>
 
 <div display="flex">
-<img src="https://pinegrow.com/wp-content/uploads/Code-collaboration.svg" alt="Coder" height="400" width="400" />
 <img src="https://freesvg.org/img/computers.png" alt="Coder" height="400" width="500" />
 </div>
 
