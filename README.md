@@ -7,7 +7,7 @@
 <img  src="https://freesvg.org/img/computers.png" alt="Coder" height="300" width="350" />
 </div>
 
-<h2>A passionate frontend developer (Web & Mobile), with an eye for simple elegant designs.</h2>
+<h2>A passionate frontend developer (Web & Mobile), with an eye for elegant designs.</h2>
 
 - 👨‍💻 All of my projects are available at [http://portfolio-ejezie.vercel.app/](http://portfolio-ejezie.vercel.app/)
 
