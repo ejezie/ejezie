@@ -1,3 +1,6 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap" rel="stylesheet">
 <h1 align="center">Hi 👋, I'm Ejezie Chinedu</h1>
 <img src="https://pinegrow.com/wp-content/uploads/Code-collaboration.svg" alt="Coder"/>
 <h3 align="center">A passionate frontend developer (Web & Mobile), with an eye for simple elegant designs.</h3>
