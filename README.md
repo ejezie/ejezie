@@ -3,8 +3,8 @@
 <link href="https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap" rel="stylesheet">
 <h1 align="center">Hi 👋, I'm Ejezie Chinedu</h1>
 <img src="https://pinegrow.com/wp-content/uploads/Code-collaboration.svg" alt="Coder" height="300" width="400" />
-<img src="https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/04/Screen-Shot-2020-04-17-at-9.36.27-AM.png?resize=1000%2C455&ssl=1" alt="Coder" height="600" width="800" />
-
+<img src="https://pinegrow.com/wp-content/uploads/Code-collaboration.svg" alt="Coder" height="300" width="400" />
+<img src="https://pinegrow.com/wp-content/uploads/Code-collaboration.svg" alt="Coder" height="300" width="400" />
 
 <h2>A passionate frontend developer (Web & Mobile), with an eye for simple elegant designs.</h2>
 
