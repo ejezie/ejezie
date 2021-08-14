@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Ejezie Chinedu</h1>
 
 <div display="flex" align="center">
-<img  src="https://github.com/Jaybee4real/Jaybee4real/raw/master/pg_image.png" alt="Coder" height="300" width="350" />
+<img  src="https://github.com/Jaybee4real/Jaybee4real/raw/master/pg_image.png" alt="Coder" />
 </div>
 
 <h2>A passionate frontend developer (Web & Mobile), with an eye for elegant designs.</h2>
