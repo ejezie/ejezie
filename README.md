@@ -3,7 +3,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap" rel="stylesheet">
 <h1 align="center">Hi 👋, I'm Ejezie Chinedu</h1>
 <img src="https://pinegrow.com/wp-content/uploads/Code-collaboration.svg" alt="Coder"/>
-<h1>A passionate frontend developer (Web & Mobile), with an eye for simple elegant designs.</h1>
+<h2>A passionate frontend developer (Web & Mobile), with an eye for simple elegant designs.</h2>
 
 - 👨‍💻 All of my projects are available at [http://portfolio-ejezie.vercel.app/](http://portfolio-ejezie.vercel.app/)
 
