@@ -7,7 +7,7 @@
 <img  src="https://www.edology.com/media/1721/download/blog-why-coding-is-so-important-for-IT-jobs.png?v=1" alt="Coder" />
 </div>
 
-<h2>A passionate frontend developer (Web & Mobile), with an eye for elegant designs.</h2>
+<h2 back-ground="green" border-radius="10" padding="5">A passionate frontend developer (Web & Mobile), with an eye for elegant designs.</h2>
 
 - 👨‍💻 All of my projects are available at [http://portfolio-ejezie.vercel.app/](http://portfolio-ejezie.vercel.app/)
 
