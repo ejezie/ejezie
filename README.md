@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ejezie Chinedu</h1>
-<img src="https://portswigger.net/cms/images/e1/e0/7eac26d04145-article-181102-google-javascript-body-text.jpg" alt="Coder"/>
+<img src="https://pinegrow.com/wp-content/uploads/Code-collaboration.svg" alt="Coder"/>
 <h3 align="center">A passionate frontend developer (Web & Mobile), with an eye for simple elegant designs.</h3>
 
 - 👨‍💻 All of my projects are available at [http://portfolio-ejezie.vercel.app/](http://portfolio-ejezie.vercel.app/)
