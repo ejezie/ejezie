@@ -5,8 +5,7 @@
 
 <div display="flex">
 <img src="https://pinegrow.com/wp-content/uploads/Code-collaboration.svg" alt="Coder" height="300" width="400" />
-<img src="https://pinegrow.com/wp-content/uploads/Code-collaboration.svg" alt="Coder" height="300" width="400" />
-<img src="https://pinegrow.com/wp-content/uploads/Code-collaboration.svg" alt="Coder" height="300" width="400" />
+<img src="https://pinegrow.com/wp-content/uploads/Code-collaboration.svg" alt="Coder" height="300" width="600" />
 </div>
 
 <h2>A passionate frontend developer (Web & Mobile), with an eye for simple elegant designs.</h2>
