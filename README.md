@@ -37,6 +37,7 @@
 ![Jquery](https://img.shields.io/badge/-Jquery-0769ad?style=for-the-badge&logo=jquery)
 ![Sass](https://img.shields.io/badge/-Sass-pink?style=for-the-badge&logo=sass)
 ![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django)
+![C#](https://img.shields.io/badge/-C#-black?style=for-the-badge&logo=C#)
 
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ejezie&show_icons=true&locale=en&layout=compact" alt="ejezie" /></p> -->
